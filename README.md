@@ -38,6 +38,6 @@
 
 ###
 
-<p align="left">Sobre Mim 👋<br>Sou estudante de Engenharia de Software, apaixonado por programação e sempre buscando aprender mais. Atualmente, estou focado em estudar Java, explorando desde o básico até a criação de aplicações.<br><br>O que Faço 🚀<br>Estudando Java: Programação orientada a objetos, desenvolvimento de aplicações e automação.<br>Projetos Pessoais: Criando pequenos sistemas e soluções práticas para aplicar o que aprendo.<br>Colaborando: Buscando colaborar e aprender com a comunidade.<br><br>Tecnologias 🛠️<br>Linguagens: Java, HTML, CSS, JavaScript, C.<br>Ferramentas: GitHub e IntelliJ IDEA.<br><br>Objetivos 🎯<br>Aprofundar conhecimentos em Java.<br>Explorar novos frameworks.<br>Contribuir para projetos e crescer como desenvolvedor.</p>
+<p align="left">Sobre Mim 👋<br>Sou estudante de Engenharia de Software, apaixonado por programação e sempre buscando aprender mais. Atualmente, estou focado em estudar JavaScript, explorando desde o básico até a criação de aplicações.<br><br>O que Faço 🚀<br>Estudando JavaScript: Programação orientada a objetos e desenvolvimento de aplicaçõe.<br>Projetos Pessoais: Criando pequenos sistemas e soluções práticas para aplicar o que aprendo.<br>Colaborando: Buscando colaborar e aprender com a comunidade.<br><br>Tecnologias 🛠️<br>Linguagens: HTML, CSS, JavaScript, C.<br>Ferramentas: GitHub e VisualCode Studio IDEA.<br><br>Objetivos 🎯<br>Aprofundar conhecimentos em JavaScrip.<br>Explorar novos frameworks.<br>Contribuir para projetos e crescer como desenvolvedor.</p>
 
 ###
